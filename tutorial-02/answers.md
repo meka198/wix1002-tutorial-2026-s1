@@ -1,4 +1,5 @@
 # Tutorial 2 = Answer
+Name : Aisha Hadaya Mecca (25101230)
 
 ## 1. Display “Faculty of Computer Science and Information Technology”
 ### a. One line, multiple statements
